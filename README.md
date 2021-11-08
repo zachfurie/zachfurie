@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zachfurie
 - 👀 I’m interested in generating creativity with AI/ML
-- 🌱 I’m currently learning how to generate music using a CNN
+- 🌱 I’m currently learning how to generate music using a CNN and GAN
 - 💞️ I’m looking to collaborate on creative projects
 - 📫 How to reach me: zwf3@duke.edu
 
